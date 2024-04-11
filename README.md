@@ -4,10 +4,11 @@
 - 👨‍💻 I'm currently doing web pages and posting my results!
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jlrocha99&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlrocha99&show_icons=true&theme=radical)
+  
  </div>
+ 
  
  <div style="display: inline_block" align="center"><br>
   
