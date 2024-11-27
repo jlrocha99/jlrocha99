@@ -1,20 +1,30 @@
 ### Hi Everyone 👋
 
-- 🌱 I’m currently learning HTML5, CSS3, JS and React!
-- 👨‍💻 I'm currently doing web pages and posting my results!
+- ☕ I'm currently learning Java, studying OOP and living the back-end development world...
+- 👨‍💻 Throughout my journey I will be posting my results and projects.
+- 🎓 I'm a undergraduate student in my 1st year in ADS.
+-  I have knowledge in front-end but my focus is Back-end.
+-  Open to project collaborations
 
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlrocha99&show_icons=true&theme=radical)
-  
- </div>
- 
  
  <div style="display: inline_block" align="center"><br>
-  
-  <img align="center" alt="Jl_Rocha-HTML" height="120" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JL_Rocha-CSS" height="120" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JL_Rocha-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JL_Rocha-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
+   Skills:
+   <br>
+   <br>
+   <strong>Primary<strong> :
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img width="80" src="https://skillicons.dev/icons?i=java" />
+  </a>
+</p>
+  Secondary :
+  <br>
+  <br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  </a>
+</p>
+   
           
