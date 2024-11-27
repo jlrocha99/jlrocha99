@@ -9,22 +9,18 @@
  
  <div style="display: inline_block" align="center"><br>
 
-   Skills:
+   <strong>Skills:
    <br>
    <br>
-   <strong>Primary<strong> :
+   <strong>Primary :
   <p align="center">
-  <a href="https://skillicons.dev">
     <img width="80" src="https://skillicons.dev/icons?i=java" />
-  </a>
 </p>
   Secondary :
   <br>
   <br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
    
           
