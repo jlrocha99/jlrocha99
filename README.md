@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+### Hi Everyone 👋 &#x1f1e7;&#x1f1f7;
 
 - ☕ I'm currently learning Java, studying OOP and living the back-end development world...
 - 👨‍💻 Throughout my journey I will be posting my results and projects.
@@ -9,13 +9,16 @@
  
  <div style="display: inline_block" align="center"><br>
 
-   <strong>Skills:
-   <br>
+   <strong>-Skills-
+   
+
    <br>
    <strong>Primary :
+   <br>
+   <br>
   <p align="center">
     <img width="80" src="https://skillicons.dev/icons?i=java" />
-</p>
+  </p>
   Secondary :
   <br>
   <br>
